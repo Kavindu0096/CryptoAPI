@@ -1,0 +1,104 @@
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.csprojResolveAssemblyReference.cache
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\TSWebAPI.dll.config
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\TSWebAPI.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\TSWebAPI.pdb
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Antlr3.Runtime.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Newtonsoft.Json.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Net.Http.Formatting.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Cors.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Helpers.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.Cors.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.WebHost.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Mvc.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Optimization.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Razor.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\WebGrease.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Newtonsoft.Json.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Net.Http.Formatting.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.Cors.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Helpers.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.WebHost.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Mvc.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Optimization.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Razor.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Antlr3.Runtime.pdb
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.dll
+D:\Digree\research\WebAPI\TSAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.pdb
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\TSWebAPI.dll.config
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\TSWebAPI.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\TSWebAPI.pdb
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Antlr3.Runtime.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Newtonsoft.Json.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Net.Http.Formatting.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Cors.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Helpers.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.Cors.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.WebHost.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Mvc.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Optimization.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Razor.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\WebGrease.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Newtonsoft.Json.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Net.Http.Formatting.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.Cors.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Http.WebHost.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Helpers.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Mvc.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Optimization.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.Razor.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\bin\Antlr3.Runtime.pdb
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.csprojResolveAssemblyReference.cache
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.dll
+D:\Digree\research\WebAPI\TSAPI\TSAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.pdb
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\TSWebAPI.dll.config
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\TSWebAPI.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\TSWebAPI.pdb
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\Antlr3.Runtime.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\Newtonsoft.Json.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Net.Http.Formatting.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Cors.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Helpers.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Http.Cors.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Http.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Http.WebHost.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Mvc.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Optimization.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Razor.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Razor.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\WebGrease.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\Newtonsoft.Json.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Net.Http.Formatting.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Http.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Http.Cors.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Http.WebHost.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Helpers.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Mvc.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Optimization.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.Razor.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Razor.xml
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\bin\Antlr3.Runtime.pdb
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.dll
+D:\K\Freelance\Crypto Project\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.pdb

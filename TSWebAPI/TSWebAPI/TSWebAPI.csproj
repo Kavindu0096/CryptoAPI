@@ -147,39 +147,23 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Common\CommonObj.cs" />
-    <Compile Include="Controllers\ContentController.cs" />
     <Compile Include="Controllers\MainCurrencyController.cs" />
     <Compile Include="Controllers\CurrencyController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\HttpPost.cs" />
-    <Compile Include="Controllers\SignUpController.cs" />
-    <Compile Include="Controllers\StructureController.cs" />
-    <Compile Include="Controllers\TeacherController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\ContentDetail.cs" />
-    <Compile Include="Models\ContentHeader.cs" />
     <Compile Include="Models\CurrencyObj.cs" />
-    <Compile Include="Models\DepartmentObj.cs" />
-    <Compile Include="Models\Division.cs" />
-    <Compile Include="Models\Grade.cs" />
     <Compile Include="Models\Login.cs" />
     <Compile Include="Models\MainCurrencyObj.cs" />
     <Compile Include="Models\PostStatus.cs" />
-    <Compile Include="Models\Province.cs" />
     <Compile Include="Models\ReasonObj.cs" />
-    <Compile Include="Models\SchoolObj.cs" />
     <Compile Include="Models\StatusObj.cs" />
-    <Compile Include="Models\SubjectObj.cs" />
-    <Compile Include="Models\TeacherContentDetail.cs" />
-    <Compile Include="Models\TeacherGradeSubject.cs" />
-    <Compile Include="Models\TeacherObj.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\UserRoleObj.cs" />
-    <Compile Include="Models\Zone.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

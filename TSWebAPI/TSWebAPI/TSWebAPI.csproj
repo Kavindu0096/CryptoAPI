@@ -147,6 +147,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Common\CommonObj.cs" />
+    <Compile Include="Controllers\CurrencyRateController.cs" />
     <Compile Include="Controllers\MainCurrencyController.cs" />
     <Compile Include="Controllers\CurrencyController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -157,8 +158,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\CurrencyObj.cs" />
+    <Compile Include="Models\CurrencyRate.cs" />
     <Compile Include="Models\Login.cs" />
     <Compile Include="Models\MainCurrencyObj.cs" />
+    <Compile Include="Models\Order.cs" />
     <Compile Include="Models\PostStatus.cs" />
     <Compile Include="Models\ReasonObj.cs" />
     <Compile Include="Models\StatusObj.cs" />

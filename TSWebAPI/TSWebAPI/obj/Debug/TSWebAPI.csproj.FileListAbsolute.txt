@@ -134,6 +134,5 @@ D:\K\Freelance\Crypto Project\CryptoAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPage
 D:\K\Freelance\Crypto Project\CryptoAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Deployment.xml
 D:\K\Freelance\Crypto Project\CryptoAPI\TSWebAPI\TSWebAPI\bin\System.Web.WebPages.Razor.xml
 D:\K\Freelance\Crypto Project\CryptoAPI\TSWebAPI\TSWebAPI\bin\Antlr3.Runtime.pdb
-D:\K\Freelance\Crypto Project\CryptoAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.csprojResolveAssemblyReference.cache
 D:\K\Freelance\Crypto Project\CryptoAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.dll
 D:\K\Freelance\Crypto Project\CryptoAPI\TSWebAPI\TSWebAPI\obj\Debug\TSWebAPI.pdb

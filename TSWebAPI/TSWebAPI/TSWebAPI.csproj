@@ -147,11 +147,13 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Common\CommonObj.cs" />
+    <Compile Include="Controllers\AuthenticationController.cs" />
     <Compile Include="Controllers\CurrencyRateController.cs" />
     <Compile Include="Controllers\MainCurrencyController.cs" />
     <Compile Include="Controllers\CurrencyController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\HttpPost.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
@@ -159,6 +161,7 @@
     </Compile>
     <Compile Include="Models\CurrencyObj.cs" />
     <Compile Include="Models\CurrencyRate.cs" />
+    <Compile Include="Models\LoginResponse.cs" />
     <Compile Include="Models\Login.cs" />
     <Compile Include="Models\MainCurrencyObj.cs" />
     <Compile Include="Models\Order.cs" />
@@ -168,6 +171,7 @@
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\UserRoleObj.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Support\ClsEncryption.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />

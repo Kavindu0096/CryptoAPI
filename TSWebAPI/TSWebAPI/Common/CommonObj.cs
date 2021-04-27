@@ -60,7 +60,7 @@ namespace TSWebAPI.Common
             PostStatus objMessage = new PostStatus();
             objMessage.UniqueNo = "1";
             objMessage.ErrorId = 1;
-            objMessage.ErrorDescription = error.InnerException.Message;
+            objMessage.ErrorDescription = error.Message;
             objMessage.ErrorClass = "alert-danger";
 
             return objMessage;

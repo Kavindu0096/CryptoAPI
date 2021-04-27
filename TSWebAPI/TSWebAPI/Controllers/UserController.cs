@@ -9,6 +9,7 @@ using System.Web.Http.Cors;
 using System.Web.Mvc;
 using TSWebAPI.Common;
 using TSWebAPI.Models;
+using TSWebAPI.Support;
 
 namespace TSWebAPI.Controllers
 {
@@ -111,8 +112,10 @@ namespace TSWebAPI.Controllers
                 {
                     con.Open();
 
+                    string encryptedPW = ClsEncryption.Encrypt(UserData.Password);
+
                     string Sql = "";
-                    Sql = "EXEC SP_MD_CREATE_User '" + UserData.UserName + "','" + UserData.Email + "','" + UserData.Password + "','" + UserData.EncryptedPassword + "','" + UserData.CreatedBy + "'";
+                    Sql = "EXEC SP_MD_CREATE_User '" + UserData.UserName + "','" + UserData.Email + "','" + UserData.Password + "','" + encryptedPW + "','" + UserData.CreatedBy + "'";
 
                     SqlCommand cmd = new SqlCommand(Sql, con);
                     SqlDataReader rs = cmd.ExecuteReader();
